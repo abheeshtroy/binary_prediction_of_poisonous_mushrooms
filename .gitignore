@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+
+# Data (optional)
+# Uncomment the line below if you don't want to push the raw CSVs to GitHub
+# data/
+data/*.csv
